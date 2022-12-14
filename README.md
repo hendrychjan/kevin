@@ -24,10 +24,10 @@ i know just one thing
 |Darryl's forklift|motor-cnc-with-a-pen-thing|draws the solution back on the paper|
 
 ## FAQ
-> Will it actually work?
+**Will it actually work?**
 
-No.
+> No.
 
-> Where is Jim?
+**Where is Jim?**
 
-In Stamford. Still dating Karen.
+> In Stamford. Still dating Karen.
