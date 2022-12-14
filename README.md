@@ -23,5 +23,11 @@ i know just one thing
 |Darryl|a Lego Mindstorms controller|takes the solution and controls the drawing arm|
 |Darryl's forklift|motor-cnc-with-a-pen-thing|draws the solution back on the paper|
 
-## Will it actually work?
+## FAQ
+> Will it actually work?
+
 No.
+
+> Where is Jim?
+
+In Stamford. Still dating Karen.
