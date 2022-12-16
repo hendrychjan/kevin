@@ -17,7 +17,7 @@ i know just one thing
 |---|---|---|
 |Dwigt|my old phone|serves as a network webcam|
 |Michael|node.js server Raspberry PI|serves as a sort of a controler for the whole operation|
-|Pam|shell script ig, idk yet|decodes the picture into a form that can be fed into the maze solver|
+|[Pam](https://github.com/hendrychjan/kevin/tree/main/components/img-convert)|shell script ig, idk yet|decodes the picture into a form that can be fed into the maze solver|
 |Kevin|an algorithm in C|determines a way around the maze, using Dijkstra's algorithm|
 |Stanley|interface between Pi and the Lego controller|somehow feeds the solution instructions to the Lego Mindstorms controller|
 |Darryl|a Lego Mindstorms controller|takes the solution and controls the drawing arm|
